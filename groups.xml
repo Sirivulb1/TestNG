@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = " Automation Test">
+<test name = "Smoke Test">
+ <groups>
+ <run>
+ <include name = "Priority1"/>
+ 
+ 
+ 
+ 
+ 
+ </run>
+ </groups>
+<classes>
+<class name = "testngfiles.Annotations"/>
+<class name = "testngfiles.Annot2"/>
+
+
+
+
+</classes>
+
+</test>
+
+
+
+
+
+</suite>
